@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TextEditorApp</string>
+    <string name="notepad">NotePad</string>
+    <string name="write">Написать</string>
+    <string name="show">Показать</string>
+    <string name="back">Назад</string>
+    <string name="enter_your_name">Введите ваше имя</string>
+    <string name="infoText">Введите информацию</string>
+</resources>
